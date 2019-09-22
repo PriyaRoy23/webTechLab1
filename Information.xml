@@ -1,0 +1,35 @@
+<information>
+<info1>
+<name> John Doe </name>
+<address>
+<house> 38 </house>
+<road> 3 </road>
+Banani, Dhaka 
+</address>
+<department> Sales </department>
+<salary> $20000 </salary>
+</info1>
+
+<info2>
+<name> Mark Zukerberg </name>
+<address>
+<flat> A/1 </flat>
+<house> 20 </house>
+<road> 18 </road> 
+ Mirpur, Dhaka
+ </address>
+<department> Accounts </department>
+<salary> $12000 </salary>
+</info2>
+
+<info3>
+<name> Ala Voski </name>
+<address> 
+<house> 38 </house>
+<road> 3 </road>
+Motijheel 
+</address>
+<department> Human Resource </department>
+<salary> $30000 </salary>
+</info3>
+</information>
